@@ -10,7 +10,7 @@ except ImportError :
     exit()
 reload(sys)
 sys.setdefaultencoding("utf-8")
-TOKEN = '<<<< Your Token >>>>>'
+TOKEN = '<<<< 372473342:AAHpNK7SceyufnI8CfTKMO4lLEAPRWFpdgI >>>>>'
 bot = telebot.TeleBot(TOKEN)
 
 def banner():
